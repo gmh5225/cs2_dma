@@ -1,0 +1,13 @@
+[package]
+name = "cs2_dma"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix = "0.13.1"
+actix-web = "4"
+actix-web-actors = "4"
+# actix-rt = "2"
+image = "0.24.7"
